@@ -69,7 +69,7 @@ height: 570px;
  }
  #home::before{
     content: "";
-    background: url('/img/pizza-ged3259a92_1920.jpg') no-repeat center center/cover;
+    background: url('img/pizza-ged3259a92_1920.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     height: 100%;
